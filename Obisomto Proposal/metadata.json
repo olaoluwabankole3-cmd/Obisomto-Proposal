@@ -1,0 +1,8 @@
+{
+  "name": "obisomto Proposal",
+  "description": "A highly polished, premium single-page digital proposal for an elite, lossless 4K photography showcase and studio archiving platform customized for Somto Obi (obisomto).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
